@@ -3,7 +3,7 @@
 Plugin Name: Text Replacement Plugin
 Description: Replaces old strings with new strings throughout the website.
 Version: 1.0
-Author: Your Name
+Author: Mayank Kumar
 */
 
 // Create a menu item in the WordPress dashboard
