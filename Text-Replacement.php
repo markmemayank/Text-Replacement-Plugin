@@ -2,7 +2,7 @@
 /*
 Plugin Name: Text Replacement Plugin
 Description: Replaces old strings with new strings throughout the website.
-Version: 1.0
+Version: 1.1
 Author: Mayank Kumar
 */
 
